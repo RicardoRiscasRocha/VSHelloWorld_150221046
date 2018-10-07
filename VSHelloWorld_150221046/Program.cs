@@ -12,7 +12,9 @@ namespace VSHelloWorld_150221046
 {
     public class Program
     {
-        //Ema Barão
+        //Ema Barão e Ricardo Rocha
+        
+
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
